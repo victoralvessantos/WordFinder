@@ -1,0 +1,6 @@
+@WordFinderAPI_HostAddress = http://localhost:5121
+
+GET {{WordFinderAPI_HostAddress}}/wordfinder/
+Accept: application/json
+
+###
